@@ -17,7 +17,7 @@
 
   ![:name](https://count.getloli.com/get/@dglz9?theme=gelbooru-h)
 
------
+</details>
 
 <h4 align="center">访客数 :eyes:</h4>
 
