@@ -16,3 +16,19 @@
 [![Stats](https://github-readme-stats.vercel.app/api?username=dglz9&show_icons=true&theme=merko)](https://github-readme-stats.vercel.app/api?username=dglz9&show_icons=true&theme=merko)
 
   ![:name](https://count.getloli.com/get/@dglz9?theme=gelbooru-h)
+
+-----
+
+<h4 align="center">访客数 :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/dglz9/count.svg" alt="dglz9 :: Visitor's Count" /></p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=dglz9&count_private=true&show_icons=true&theme=dracula" />
+</a>
+
+<a href="https://github.com/dglz9/ToolsFx">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dglz9&layout=compact&theme=dracula" />
+</a>
+
+<br/>
+<hr/>
