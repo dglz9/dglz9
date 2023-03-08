@@ -11,6 +11,6 @@
 
 ![](https://cdn.jsdelivr.net/gh/dglz9/dglz9@main/assets/github-contribution-grid-snake.svg)
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=rokate&show_icons=true&theme=merko)](https://github-readme-stats.vercel.app/api?username=rokate&show_icons=true&theme=merko)
+[![Stats](https://github-readme-stats.vercel.app/api?username=dglz9&show_icons=true&theme=merko)](https://github-readme-stats.vercel.app/api?username=dglz9&show_icons=true&theme=merko)
 
   ![:name](https://count.getloli.com/get/@dglz9?theme=gelbooru-h)
