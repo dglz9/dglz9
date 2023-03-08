@@ -32,3 +32,10 @@
 
 <br/>
 <hr/>
+
+-----
+
+</details>
+
+## ✨Star count
+[![Star History Chart](https://api.star-history.com/svg?repos=dglz9/dglz9&type=Date)](https://star-history.com/#dglz9/dglz9&Date)
