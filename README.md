@@ -40,12 +40,12 @@
 ## ✨Star count
 [![Star History Chart](https://api.star-history.com/svg?repos=dglz9/dglz9&type=Date)](https://star-history.com/#dglz9/dglz9&Date)
 
+-----
+
 ### Hi there 👋
 
-![Creckeryop's github stats](https://github-readme-stats.vercel.app/api?username=xfangfang&show_icons=true)
+![Creckeryop's github stats](https://github-readme-stats.vercel.app/api?username=dglz9&show_icons=true)
 <br>
-
------
 
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dglz9&layout=compact)
