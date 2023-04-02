@@ -8,7 +8,7 @@
 
 # 👋🏻 Heyy, 
 
-## Here to share a little bit of my own use of tweaky stuffs
+## Here to share a bit of my own use of tweak stuffs
 ## 这里随便分享一点自己用的乱七八糟的东西
 
 -----
