@@ -23,6 +23,7 @@
 
 -----
 
+<h4 align="center">No. of visitors :eyes:</h4>
 <h4 align="center">访客数 :eyes:</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/dglz9/count.svg" alt="dglz9 :: Visitor's Count" /></p>
